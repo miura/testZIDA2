@@ -1,3 +1,8 @@
+/**
+ * Kota Miura (gmail, kotapub )
+ * 20190623 for zidas2019 demo workflow
+ */
+
 run("HeLa Cells (1.3M, 48-bit RGB)");
 run("Split Channels");
 selectWindow("C3-hela-cells.tif");
